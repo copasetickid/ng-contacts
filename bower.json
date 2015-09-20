@@ -1,0 +1,20 @@
+{
+  "name": "ng-contacts",
+  "version": "0.0.0",
+  "authors": [
+    "Rushaine McBean <rushaine.mcbean@gmail.com>"
+  ],
+  "description": "Contact manager built in Angular",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.6"
+  }
+}
